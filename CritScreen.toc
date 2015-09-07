@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: CritScreen
+## Author: Marty (https://github.com/Marty)
+## Version: 1.0
+## Notes: Critting is fun! Now go out there and create your l33t crit screen montages! May I suggest a black and white intro and some Linkin Park music? (https://github.com/Marty/CritScreen)
+## SavedVariablesPerCharacter: status, minvalue
+## Dependencies:
+CritScreen.lua
+CritScreen.xml
